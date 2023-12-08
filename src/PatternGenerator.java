@@ -24,5 +24,6 @@ public class PatternGenerator {
 
         System.out.println("Pattern for n=" + n1 + ": " + pattern1);
         System.out.println("Pattern for n=" + n2 + ": " + pattern2);
+        
     }
 }
