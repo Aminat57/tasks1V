@@ -1,4 +1,4 @@
-public class PatternGenerator {
+public class task1 {
 
     public static String generatePattern(int n) {
         StringBuilder pattern = new StringBuilder();
@@ -24,6 +24,6 @@ public class PatternGenerator {
 
         System.out.println("Pattern for n=" + n1 + ": " + pattern1);
         System.out.println("Pattern for n=" + n2 + ": " + pattern2);
-        
+
     }
 }
